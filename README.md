@@ -8,7 +8,8 @@
 > Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
 
-Bootstrap RTL provides simple yet robust right-to-left capability for Bootstrap 3, by employing new theming feature of it. Simply put its CSS after bootstrap's original CSS, to the pages designed by Bootstrap 3. It works just like an extension on top of the original Bootstrap:
+Bootstrap RTL provides simple yet robust right-to-left capability for Bootstrap 3.
+Simply use its CSS instead of bootstrap's original CSS, to the pages designed by Bootstrap 3.
 
 To get started, check out <http://getbootstrap.com>!
 
@@ -80,18 +81,6 @@ Learn more about using Jekyll by reading its [documentation](http://jekyllrb.com
 ### Documentation for previous releases
 
 Documentation for v2.3.2 has been made available for the time being at <http://getbootstrap.com/2.3.2/> while folks transition to Bootstrap 3.
-
-
-
-## Contributing
-
-Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, if your pull request contains JavaScript patches or features, you must include relevant unit tests. All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
-
-Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
-
-
 
 ## Community
 
