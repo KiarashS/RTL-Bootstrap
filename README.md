@@ -1,11 +1,14 @@
-# [Bootstrap](http://getbootstrap.com)
+# Bootstrap RTL
 [![Bower version](https://badge.fury.io/bo/bootstrap.svg)](http://badge.fury.io/bo/bootstrap)
 [![NPM version](https://badge.fury.io/js/bootstrap.svg)](http://badge.fury.io/js/bootstrap)
 [![Build Status](https://secure.travis-ci.org/twbs/bootstrap.svg?branch=master)](https://travis-ci.org/twbs/bootstrap)
 [![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.svg)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
 [![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and maintained by the [core team](https://github.com/twbs?tab=members) with the massive support and involvement of the community.
+> Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
+
+
+Bootstrap RTL provides simple yet robust right-to-left capability for Bootstrap 3, by employing new theming feature of it. Simply put its CSS after bootstrap's original CSS, to the pages designed by Bootstrap 3. It works just like an extension on top of the original Bootstrap:
 
 To get started, check out <http://getbootstrap.com>!
 
@@ -78,8 +81,6 @@ Learn more about using Jekyll by reading its [documentation](http://jekyllrb.com
 
 Documentation for v2.3.2 has been made available for the time being at <http://getbootstrap.com/2.3.2/> while folks transition to Bootstrap 3.
 
-[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
-
 
 
 ## Contributing
@@ -109,17 +110,12 @@ For transparency into our release cycle and in striving to maintain backward com
 
 
 
-## Creators
+## Author
 
-**Mark Otto**
+**Kiarash Soleimanzadeh**
 
-- <https://twitter.com/mdo>
-- <https://github.com/mdo>
++ [http://github.com/kiyarash](http://github.com/kiyarash)
 
-**Jacob Thornton**
-
-- <https://twitter.com/fat>
-- <https://github.com/fat>
 
 
 
